@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\EuroPatios\bin\Debug\net6.0-windows\EuroPatios.exe
+C:\Users\Student\source\repos\EuroPatios\bin\Debug\net6.0-windows\EuroPatios.deps.json
+C:\Users\Student\source\repos\EuroPatios\bin\Debug\net6.0-windows\EuroPatios.runtimeconfig.json
+C:\Users\Student\source\repos\EuroPatios\bin\Debug\net6.0-windows\EuroPatios.dll
+C:\Users\Student\source\repos\EuroPatios\bin\Debug\net6.0-windows\EuroPatios.pdb
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.AssemblyInfo.cs
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.dll
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\refint\EuroPatios.dll
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.pdb
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.genruntimeconfig.cache
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\ref\EuroPatios.dll
+C:\Users\Student\source\repos\EuroPatios\obj\Debug\net6.0-windows\EuroPatios.frmEstimate.resources
